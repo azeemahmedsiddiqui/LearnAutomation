@@ -1,3 +1,4 @@
 # java programs
 
-- core jva
+- types of mangoes
+- core java
