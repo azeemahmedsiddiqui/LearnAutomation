@@ -1,4 +1,5 @@
 # java programs
 
-- types of mangoes
-- core java
+- jave core java
+- mar java
+- mit java
